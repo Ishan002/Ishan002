@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ishan002
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning MERN Stack
+- 👋 Hi, I’m Ishan
+- 👀 I’m interested in AI/ML 
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
